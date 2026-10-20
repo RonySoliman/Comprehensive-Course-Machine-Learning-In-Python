@@ -16,6 +16,7 @@ https://i.ytimg.com/vi/xRrV_luPQj0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwk
 -->
 
 
+
 <table>
   <tr>
     <td align="center">
@@ -26,7 +27,7 @@ https://i.ytimg.com/vi/xRrV_luPQj0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwk
     </td>
     <td align="center">
       <a href="https://youtu.be/ahCr9158rLw">
-        <img src="https://img.youtube.com/vi/_Ke54TJqY9s/hqdefault.jpg" width="500"><br>
+        <img src="https://img.youtube.com/vi/ahCr9158rLw/hqdefault.jpg" width="500"><br>
         <b>Built-in Interpretability: Why Decision Trees Don't Need SHAP</b>
       </a>
     </td>
@@ -35,13 +36,13 @@ https://i.ytimg.com/vi/xRrV_luPQj0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwk
   <tr>
     <td align="center">
       <a href="https://youtu.be/xRrV_luPQj0">
-        <img src="https://img.youtube.com/vi/u_P7BrYj0ws/hqdefault.jpg" width="500"><br>
+        <img src="https://img.youtube.com/vi/xRrV_luPQj0/hqdefault.jpg" width="500"><br>
         <b>Before You Touch XGBoost: Why Random Forest Is Your Best Starting Point</b>
       </a>
     </td>
     <td align="center">
       <a href="https://youtu.be/lU2qVmS-SEg">
-        <img src="THUMBNAIL_LINK_4" width="500"><br>
+        <img src="https://img.youtube.com/vi/lU2qVmS-SEg/hqdefault.jpg" width="500"><br>
         <b>Which #MachineLearning algorithms benefit from Feature Scaling?</b>
       </a>
     </td>
