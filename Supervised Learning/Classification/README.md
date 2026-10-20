@@ -18,7 +18,7 @@
 ### 🍄 Data Wrangling
 
 
-### 🍄 Feature Engineering 
+### 🍄 Feature Scaling & Engineering 
 
 #### Handling Numerical Features
 
